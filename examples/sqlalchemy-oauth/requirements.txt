@@ -2,3 +2,5 @@ fastapi
 fastapi-users[sqlalchemy,oauth]
 uvicorn[standard]
 aiosqlite
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
